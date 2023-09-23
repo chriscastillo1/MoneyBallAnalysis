@@ -17,4 +17,9 @@ Rigorous statistical analysis had demonstrated that on-base percentage and slugg
 ![salary](https://github.com/chriscastillo1/MoneyBallAnalysis/assets/70082335/cb658f05-0a1b-4283-ab39-f3002736dd31)
 
 # Chart showing OBP vs Salary
+
+Use this chart to make approximate predictions like
+Removing players with OBP < 0.2
+Limiting salaries to < 8 Million
+
 ![Rplot](https://github.com/chriscastillo1/MoneyBallAnalysis/assets/70082335/f1c60132-9ff8-4e59-998d-432dd7098b01)
