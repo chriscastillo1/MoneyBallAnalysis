@@ -26,4 +26,5 @@ Limiting salaries to < 8 Million
 ![Rplot](https://github.com/chriscastillo1/MoneyBallAnalysis/assets/70082335/f1c60132-9ff8-4e59-998d-432dd7098b01)
 
 # Possible Players Output
+
 ![image](https://github.com/chriscastillo1/MoneyBallAnalysis/assets/70082335/6df3a785-b970-4bac-ada6-a363e629dc87)
